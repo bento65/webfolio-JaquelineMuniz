@@ -1,0 +1,124 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    
+}
+
+header {
+    background-color: #eb51512c;
+    color: #fff;
+    padding: 20px 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+section {
+ align-items: center;
+ text-align: center;
+}
+
+p{
+   color: black;
+}
+
+
+
+.cont1{
+    background-color: rgba(86, 236, 26, 0.267);
+    padding: 20px 0;
+
+}
+
+.cont2{
+    background-color: #d4eca7;
+    padding: 20px 0;
+
+}
+
+.cont3{
+    background-color: rgba(86, 236, 26, 0.267);
+    padding: 20px 0;
+
+}
+
+.cont4 nav ul li{
+    padding: 20px 0;
+    display: inline;
+
+}
+
+.cont4{
+    background-color: #d4eca7;
+    padding: 20px 0;
+
+}
+
+.cont5 {
+    background-color: rgba(86, 236, 26, 0.267);
+    color: #333;
+    padding: 20px 0;
+
+
+}
+.cont8{
+    background-color: rgba(86, 236, 26, 0.267);
+    padding: 20px 0;
+
+}
+
+.cont10{
+    background-color: #d4eca7;
+    padding: 20px 0;
+}
+
+h6{
+    color: rgb(71, 57, 57);
+    font-size: 20px;
+
+}
+
+h5{
+    font-size: 18px;
+    color: #e0090991;
+    
+}
+.caixa2{
+    color: rgb(54, 50, 50);
+    font-size: 20px;
+    width: 800px;
+    cursor: pointer;
+display: inline;
+}
+footer{
+    padding: 30px;
+    display: inline;
+}
+
+img{
+    border-radius: 30px;
+}
+
+nav,ul,li{
+  
+   font-size: 20px;
+}
+
+h1{
+    font-size: 20px;
+}
+
+h2{
+    color: rgba(231, 29, 14, 0.788);
+}
+
+
